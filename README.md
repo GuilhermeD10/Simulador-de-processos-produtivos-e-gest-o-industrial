@@ -1,15 +1,8 @@
 ## Simulador de processos produtivos e gestão industrial
 
 ![Status](https://img.shields.io/badge/status-%20concluído-green)
-![Projeto](https://img.shields.io/badge/API-Fatec%20SJC-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Dados](https://img.shields.io/badge/Dados-EXCEL-lightgrey)
-
-# Índice
-
-* [Equipe](#Equipe)
-* [Dashboard Power BI](Dashboard-Power-BI)
-
 
 ## Equipe
 
