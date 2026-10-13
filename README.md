@@ -8,12 +8,8 @@
 # Índice
 
 * [Equipe](#Equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Tratamento e Filtragem de Dados (Python – Google Colab)](#Tratamento-e-Filtragem-de-Dados-(Python-–-Google-Colab))
 * [Dashboard Power BI](Dashboard-Power-BI)
-* [Registro das Sprints](#Registro-das-Sprints)
+
 
 ## Equipe
 
