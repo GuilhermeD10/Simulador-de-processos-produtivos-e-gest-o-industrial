@@ -1,0 +1,2 @@
+# Simulador-de-processos-produtivos-e-gest-o-industrial
+A ferramenta permite simular produção, vendas, investimentos, custos, estoque e fluxo de caixa, além de criar cenários para avaliar impactos antes de decisões reais. Integrada ao Power BI e ao Excel, utiliza um sistema de automação que manipula e atualiza os dados do dashboard, garantindo análises mais ágeis e confiáveis. para apoiar boas decisões.
