@@ -28,4 +28,4 @@
 * Microsoft Excel
 
 # Dashboard Power BI
-Dísponivel em: https://app.powerbi.com/groups/me/reports/197dfa7a-0eb8-4009-9c65-d574ab251c9e/26353a826c28f8fba1cc?experience=power-bi
+Dísponivel em: https://app.powerbi.com/groups/me/reports/197dfa7a-0eb8-4009-9c65-d574ab251c9e/d4aa714c5aaeaf22eb43?experience=power-bi
